@@ -372,7 +372,7 @@ def initialize_gemini(api_key):
 # Combined main application with text and voice options and improved API key handling
 def run_virtual_doctor():
     # Use a pre-defined API key instead of asking from the user
-    api_key = r"AIzaSyBz0G3SdLzK-a4S1ECq2NEB4tkiiuw4tDs"  # Developer should replace this with their actual API key
+    api_key = r"API key"  # Developer should replace this with their actual API key
     
     try:
         # Initialize Gemini
