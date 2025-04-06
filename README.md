@@ -107,7 +107,7 @@ A **real-time ambulance navigation system** that finds the fastest route to hosp
 
 ---
 
-### 🎖️ Model 5: Healthcare Reward System
+### 🎖️ Blockchain: Healthcare Reward System
 A **health incentive program** that encourages individuals to take preventive health measures.
 
 #### **How It Works:**
